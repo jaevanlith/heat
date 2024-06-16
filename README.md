@@ -1,5 +1,5 @@
 ﻿
-# Reproduction of HEAT: Holistic Edge Attention Transformer for Structured Reconstruction
+# Reproduction and transfer learning of HEAT: Holistic Edge Attention Transformer for Structured Reconstruction
 ## Student credentials
 This blog post is made by students of the TU Delft as part of the course Deep Learning. The students are:
 
